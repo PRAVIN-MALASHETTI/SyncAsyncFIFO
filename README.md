@@ -1,1 +1,1 @@
-# Synchronous-FIFO
+# FIRST IN FIRST OUT
